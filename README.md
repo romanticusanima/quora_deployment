@@ -10,6 +10,11 @@ This API uses a DistilBERT model fine-tuned on the Quora Question Pairs dataset 
 - **Architecture:** DistilBERT for sequence classification
 - **Task:** Binary classification (duplicate / not duplicate)
 
+### API Usage
+
+The deployed API can be accessed at: [link](https://quora-deployment.onrender.com/)
+Use this endpoint to send requests and receive model predictions.
+
 ## API Endpoints
 
 ### `GET /`
