@@ -4,4 +4,3 @@ pydantic==2.10.4
 
 transformers==4.47.1
 torch==2.5.1
-safetensors==0.4.5
